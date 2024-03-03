@@ -1,0 +1,18 @@
+.modalBody {
+   grid-template-columns: repeat(2, 1fr); 
+   align-items: center;
+
+   .image_input {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        input {
+            display: none
+        }
+
+        img {
+            border-radius: 50%;
+        }
+   }
+}

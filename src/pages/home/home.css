@@ -1,0 +1,26 @@
+.section_header {
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+.section_header h1 {
+  font-weight: 600;
+  color: darkblue;
+}
+
+.section_body thead, .section_body tbody {
+  text-align: center;
+}
+.section_body td {
+  vertical-align: middle;
+}
+.section_body .delete_btn {
+  color: red;
+  border: 1px solid red;
+  margin: 0 0.5rem;
+}
+.section_body .edit_btn {
+  color: brown;
+  border: 1px solid brown;
+  margin: 0 0.5rem;
+}/*# sourceMappingURL=home.css.map */
